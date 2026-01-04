@@ -9,6 +9,9 @@ A modern, full-featured employee management system built with **Next.js 16**, **
 
 ## ✨ Features
 
+## Live Link - vercel
+https://employee-dashboard-rust.vercel.app/
+
 ### 📋 Core Features
 - **Complete CRUD Operations**
   - ✅ Create new employees with auto-generated IDs
